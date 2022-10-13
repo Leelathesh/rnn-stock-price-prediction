@@ -112,8 +112,7 @@ Include your code here
 ### True Stock Price, Predicted Stock Price vs time
 ![image](https://github.com/Leelathesh/rnn-stock-price-prediction/blob/e93d1c3cf7c28f09f5bcb7557d7c65b317272ff3/WhatsApp%20Image%202022-10-13%20at%2018.03.16(1).jpeg)
 ### Mean Square Error
-
-Include the mean square error
+![image](https://github.com/Leelathesh/rnn-stock-price-prediction/blob/1f7b54af5eb2ff686e7dfa9390f3145b2a004d15/WhatsApp%20Image%202022-10-13%20at%2018.03.46.jpeg)
 
 ## RESULT
 Thus a recurrence neural network model is developed
